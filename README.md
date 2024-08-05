@@ -1,0 +1,1 @@
+Created a student grade tracker using Java and ArrayList. The application allows users to add there mark and subject name which is store in the array list and calculate the sum of all mark , average , grade and GPA.
